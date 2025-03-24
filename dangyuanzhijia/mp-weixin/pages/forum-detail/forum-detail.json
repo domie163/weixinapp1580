@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "交流论坛发帖详情",
+  "usingComponents": {
+    "user-reply": "/components/forum-reply/forum-reply"
+  }
+}
